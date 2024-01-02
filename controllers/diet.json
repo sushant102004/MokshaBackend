@@ -1,0 +1,40 @@
+[
+    {
+        "level": "Underweight",
+        "food": [
+            "Cheese",
+            "Nuts",
+            "Milk",
+            "Dry Fruits",
+            "Tea"
+        ]
+    },
+    {
+        "level": "Healthy Weight",
+        "food": [
+            "Whole Grains",
+            "Vegetables",
+            "Fruits",
+            "Beans",
+            "Protien Sources"
+        ]
+    },
+    {
+        "level": "Overweight",
+        "food": [
+            "Fat Free Milk",
+            "Grains",
+            "Vegetables",
+            "Fruits"
+        ]
+    },
+    {
+        "level": "Obesity",
+        "food": [
+            "Oats",
+            "Non-Potato Vegetables",
+            "Protien",
+            "Plant Oils"
+        ]
+    }
+]
